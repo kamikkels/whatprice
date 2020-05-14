@@ -1,0 +1,2 @@
+class Totaltools(Base):
+    pass
