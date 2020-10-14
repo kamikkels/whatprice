@@ -1,2 +1,0 @@
-class Amazon(Base):
-    pass
