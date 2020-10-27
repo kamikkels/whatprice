@@ -4,10 +4,10 @@ import React from 'react';
 // Local
 import WpResultsView from './view';
 
-class WpResults {
+class WpResults extends React.Component {
 
   render() {
-    <WpResultsView />
+    return <WpResultsView />
   }
 }
 

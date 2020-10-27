@@ -1,18 +1,10 @@
-// Package
 import React from 'react';
-
-// Local
 import WpHeaderView from './view';
 
-// Media
-import logo from './logo.svg';
-
-class WpHeader {
+class WpHeader extends React.Component {
 
   render() {
-    <WpHeaderView 
-      logo={logo}
-      />
+    return <WpHeaderView />
   }
 }
 

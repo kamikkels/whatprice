@@ -1,10 +1,10 @@
 // Package
 import React from 'react';
 
-class WpResultsView {
+class WpResultsView extends React.Component {
 
   render() {
-    <div></div>
+    return <div></div>
   }
 }
 
