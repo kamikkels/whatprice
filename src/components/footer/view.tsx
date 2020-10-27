@@ -1,10 +1,10 @@
 // Package
 import React from 'react';
 
-class WpFooterView {
+class WpFooterView extends React.Component {
 
   render() {
-    <div></div>
+    return <div></div>;
   }
 }
 

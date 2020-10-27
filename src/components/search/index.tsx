@@ -4,10 +4,10 @@ import React from 'react';
 // Local
 import WpSearchView from './view';
 
-class WpSearch {
+class WpSearch extends React.Component {
 
   render() {
-    <WpSearchView />
+    return <WpSearchView />
   }
 }
 
